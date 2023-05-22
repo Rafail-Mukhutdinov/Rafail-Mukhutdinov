@@ -103,14 +103,7 @@
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
+### ⚙️ Leetcode статистика:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/k00priz?theme=dark&font=Adamina&ext=activity)
 
