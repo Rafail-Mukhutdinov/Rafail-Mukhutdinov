@@ -69,22 +69,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
----
 
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
-
---- -->
 
 ### 💻 Codewars:
 
@@ -101,9 +86,17 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafail-Mukhutdinov&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
+    <tr>
+    <td>
+      <img align="left" src="[http://github-readme-streak-stats.herokuapp.com?user=Rafail-Mukhutdinov&theme=dark&background=000000](https://leetcard.jacoblin.cool/k00priz?theme=dark&font=Adamina)" alt="webDev's Github stats" />
+    </td>
+    <td>
+     
+    </td>
+  </tr>
 </table>
 
 ### ⚙️ Leetcode статистика:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/k00priz?theme=dark&font=Adamina&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/k00priz?theme=dark&font=Adamina)
 
