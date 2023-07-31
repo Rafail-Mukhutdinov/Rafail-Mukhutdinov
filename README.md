@@ -39,9 +39,9 @@
 
 ---
 
-### ⚙️ Leetcode статистика:
+!!!### ⚙️ Leetcode статистика:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/k00priz?theme=dark&font=Adamina)
+!!!![Leetcode Stats](https://leetcard.jacoblin.cool/k00priz?theme=dark&font=Adamina)
 
 ### ⚙️ GitHub статистика:
 
