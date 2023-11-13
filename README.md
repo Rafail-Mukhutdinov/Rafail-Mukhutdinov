@@ -19,10 +19,10 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/3170529?s=200&v=4" title="Boost" alt="Boost" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp  
   <img src="https://yt3.googleusercontent.com/fahbTVgqd2tgda_E0EeuBQi2T33QLVIJNO52R6XZwTsOU8KadP-IJDulOFfTJBWzIKCnC8nKOQ=s900-c-k-c0x00ffffff-no-rj" title="Mql5"  width="40" height="40"/>&nbsp
 </div>
 
