@@ -3,15 +3,15 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### Обо мне:
 
 Я начал увлекаться программированием в 2015 году и продолжаю развиваться в этой области. Я прошел обучение в Яндекс.Практикуме с декабря 2021 года по октябрь 2022 года и получил диплом разработчика C++. Также я изучил cmake, qt, boost, STL. Я люблю читать книги на тему программирования и решать сложные задачи. Я ответственный и целеустремленный программист, готовый к новым вызовам.
 
 
-- :seedling: Завершил обучение Разработчик С++ от Яндекс Практикум!
+-  Завершил обучение Разработчик С++ от Яндекс Практикум!
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Rafail_Mukhutdinov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rafail_Mukhutdinov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:k00priz@gmail.com)
+-  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Rafail_Mukhutdinov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rafail_Mukhutdinov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:k00priz@gmail.com)
 
 
 ---
