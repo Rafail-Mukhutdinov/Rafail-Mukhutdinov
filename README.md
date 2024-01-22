@@ -1,22 +1,22 @@
 
-# Привет, меня зовут Рафаиль!
+# Hello, my name is Rafail!
 
 ---
 
-### Обо мне:
+### About me:
 
-Я начал увлекаться программированием в 2015 году и продолжаю развиваться в этой области. Я прошел обучение в Яндекс.Практикуме с декабря 2021 года по октябрь 2022 года и получил диплом разработчика C++. Также я изучил cmake, qt, boost, STL. Я люблю читать книги на тему программирования и решать сложные задачи. Я ответственный и целеустремленный программист, готовый к новым вызовам.
-
-
--  Завершил обучение Разработчик С++ от Яндекс Практикум!
+I started getting into programming in 2015 and continue to develop in this field. I trained at Yandex.Practicum from December 2021 to October 2022 and received a C++ developer diploma. I also studied Cmake, Qt, Boost, STL. I love reading books on programming and solving complex problems. I am a responsible and goal-oriented programmer, ready for new challenges.
 
 
--  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Rafail_Mukhutdinov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rafail_Mukhutdinov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:k00priz@gmail.com)
+-  I have completed the C++ Developer course from Yandex Practicum.!
+
+
+-  How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Rafail_Mukhutdinov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rafail_Mukhutdinov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:k00priz@gmail.com)
 
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@
 
 
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub Statistics:
 
 <table>
   <tr>
