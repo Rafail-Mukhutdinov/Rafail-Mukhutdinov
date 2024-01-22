@@ -8,7 +8,7 @@
 I started getting into programming in 2015 and continue to develop in this field. I trained at Yandex.Practicum from December 2021 to October 2022 and received a C++ developer diploma. I also studied Cmake, Qt, Boost, STL. I love reading books on programming and solving complex problems. I am a responsible and goal-oriented programmer, ready for new challenges.
 
 
--  I have completed the C++ Developer course from Yandex Practicum.!
+-  I have completed the C++ Developer course from Yandex Practicum!
 
 
 -  How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Rafail_Mukhutdinov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rafail_Mukhutdinov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:k00priz@gmail.com)
